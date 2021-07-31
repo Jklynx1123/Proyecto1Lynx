@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <!DOCTYPE html>
+    <html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+        
+        </body>
+       
+    <h1>Mi Primer Sitio Web</h1>
+    <hr>
+    <h3>Bienvenidos a la primera clase de HTML</h3>
+    <a href="https://www.youtube.com/watch?v=vgXw0H-jhUg">Accede al sitio web de Google aqui</a>
+    <hr>
+
+    <h3> Pondre una imagen cualquiera</h3>
+    <img src="Imagenes/Lince.jpg   " alt="Imagen de gato lince">
+
+    <hr>
+
+
+
+    <hr>
+    <h3> Lista de compras en el supermercado<h3>
+    <h5> 1.Librea de carne</h5>
+    <h5> 2.Canasta de huevos</h3>
+    <h5> 3.Salchichas rancheras</h3>
+    <h5> <del> 4.6 bolsas de leche</del> ></h3>
+   
+    
+    
+    <hr>
+    <label>Ingresa tu nombre</label>
+    <input type="number">
+    <button>Enviar</button>
